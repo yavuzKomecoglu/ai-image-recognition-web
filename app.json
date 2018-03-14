@@ -1,0 +1,7 @@
+{
+    "name": "AI Image Recognition Web App",
+    "description": "Deep Learning Library with Keras Python Flask Object Recognition Application on Web Framework",
+    "repository": "https://github.com/yavuzKomecoglu/ai-image-recognition-web",
+    "keywords": ["keras", "python", "flask", "deep-learning", "image-recognition", "tensorflow "]
+  }
+  
